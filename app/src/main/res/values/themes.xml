@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ROOMDatabaseKotlin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary -->
+        <item name="colorPrimary">@color/khaki</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/khaki</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/brown</item>
+    </style>
+
+    <style name="Theme.ROOMDatabaseKotlin" parent="Base.Theme.ROOMDatabaseKotlin" />
+</resources>
